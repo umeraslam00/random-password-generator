@@ -4,7 +4,7 @@ A simple and responsive **Random Password Generator** built with **React and Tai
 Easily generate secure passwords with customizable length, numbers, and special characters.  
 
 ## 📸 Preview  
-![Screenshot of the Password Generator](https://imgur.com/ZBPcQPM)  
+![Screenshot of the Password Generator](https://i.imgur.com/ZBPcQPM.png)  
 
 ## ✨ Features  
 - 🎛 **Adjustable Password Length** (1 - 30 characters)  
